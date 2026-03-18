@@ -8,7 +8,7 @@
  #+#    #+#    #+#    #+#     #+#   #+#+# #+#   #+#      
 ###     ######## ########### ###    #### ###    ###      
 </pre>
-</div>
+
 
 **Download any YouTube video straight from your terminal.**  
 No ads. No browser. No bullshit.
